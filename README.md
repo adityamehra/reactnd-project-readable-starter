@@ -14,7 +14,7 @@ Use an Authorization header to work with your own data:
 
 The following endpoints are available:  
 
-`GET /categories`  
+`GET /categories`
   **USAGE:**   
     Get all of the categories available for the app. List is found in categories.js.
     Feel free to extend this list as you desire.    
