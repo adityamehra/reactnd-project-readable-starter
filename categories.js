@@ -16,6 +16,26 @@ const defaultData = {
       {
         name: 'udacity',
         path: 'udacity'
+      },
+      {
+        name: 'angular',
+        path: 'angular'
+      },
+      {
+        name: 'backbone',
+        path: 'backbone'
+      },
+      {
+        name: 'ember',
+        path: 'ember'
+      },
+      {
+        name: 'vue',
+        path: 'vue'
+      },
+      {
+        name: 'ionic',
+        path: 'ionic'
       }
   ]
 }
